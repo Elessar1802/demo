@@ -5,4 +5,4 @@ hello-world
 
 #just some updates
 
-This is bound to cause conflict
+Just something going on
